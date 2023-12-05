@@ -4,7 +4,7 @@
 name: Node.js CI
 
 env:
-  AZURE_WEBAPP_NAME: skills-test
+  AZURE_WEBAPP_NAME: EetuWebApp
 
 on:
   push:
